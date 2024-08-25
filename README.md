@@ -1,6 +1,8 @@
 # WorkShop Front-END 2024.2
 
 Esse projeto foi um desafio proposto pela Fábrica de Software - Unipê 2024.2
+<br>
+<br>
 
 <p>
   <img widht="500" height "400" src="src/imgs/gif1.gif">
@@ -33,8 +35,8 @@ Esse projeto foi um desafio proposto pela Fábrica de Software - Unipê 2024.2
 
 ### Instale as bibliotecas necessárias pelo terminal
 
-*`npm install -g npm`
-*`npm install react-router-dom`
+* `npm install -g npm`
+* `npm install react-router-dom`
 * `npm install swiper`
 
 ### Inicie o projeto
