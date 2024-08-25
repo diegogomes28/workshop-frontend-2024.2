@@ -1,0 +1,70 @@
+.section__container{
+    background-color: var(--cor-fundo);
+    width: 100%;
+    max-width: 1200px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 4rem; 
+    border-radius: 50px;
+
+}
+
+.section__main{
+    width: 100%;
+    display: flex;
+}
+
+.section__first{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    
+}
+.section__main_titulo{
+    display: inline;
+    flex-direction: column;
+    font-size: 2em;
+}
+.section__second{
+    margin-top: 3em;
+}
+
+.li__cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.8);
+    margin-top: 100px;
+    border-radius: 50px;
+}
+
+.abilityIcon{
+    
+    max-width: 2.3em;
+    max-height: 2.3em;
+
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.card_descricao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 2em;
+}
+
+.abilities{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 2em;
+    gap: 30px;
+}

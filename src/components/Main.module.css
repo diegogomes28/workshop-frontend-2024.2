@@ -1,0 +1,33 @@
+.section__container{
+    background-color: var(--cor-fundo);
+    width: 100%;
+    max-width: 1200px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 4rem; 
+    border-radius: 50px;
+
+}
+
+.section__main{
+    width: 100%;
+    display: flex;
+}
+
+.section__first{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    
+}
+.section__main_titulo{
+    display: inline;
+    flex-direction: column;
+    font-size: 2em;
+}
+.section__second{
+    margin-top: 3em;
+}
+    

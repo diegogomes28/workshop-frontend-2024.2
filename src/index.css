@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+:root{
+  --fonte-padrao:  "Bebas Neue", sans-serif;
+  --cor-branca: white;
+  --cor-fundo: rgba(25, 25, 25, 0.9);
+
+}
+body{
+background-image: url(./imgs/riot1.jpg);
+background-repeat: no-repeat;
+background-position: center;
+font-size: 2rem;
+  font-family: var(--fonte-padrao);
+  color: var(--cor-branca);
+}
+
+
+ 
+
